@@ -8,3 +8,5 @@ meteor-platform
 iron:router
 aldeed:collection2
 browser-policy
+stevezhu:sass
+gadicohen:famous-views
